@@ -16,7 +16,7 @@
         "repo": "alecmarcus/loom"
       },
       "description": "Autonomous development loop that runs Claude Code continuously to implement tasks using multiple parallel subagents. Supports various testing and validation modalities, with automatic worktree & PR creation.",
-      "version": "1.2.0",
+      "version": "1.2.2",
       "author": {
         "name": "Alec Marcus"
       },
