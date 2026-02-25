@@ -1,0 +1,30 @@
+{
+  "name": "alec-plugins",
+  "owner": {
+    "name": "Alec Marcus",
+    "email": "alec@alecmarcus.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Alec Marcus",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "loom",
+      "source": {
+        "source": "github",
+        "repo": "alecmarcus/loom"
+      },
+      "description": "Autonomous development loop — runs Claude Code continuously to implement tasks from a PRD with parallel subagents, testing, and auto-commits.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alec Marcus"
+      },
+      "homepage": "https://github.com/alecmarcus/loom",
+      "repository": "https://github.com/alecmarcus/loom",
+      "license": "MIT",
+      "keywords": ["autonomous", "development", "loop", "prd", "orchestration"],
+      "category": "development"
+    }
+  ]
+}
