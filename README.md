@@ -7,6 +7,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) plugin marketpla
 | Plugin | Description |
 |--------|-------------|
 | [loom](https://github.com/alecmarcus/loom) | Autonomous development loop — runs Claude Code continuously to implement tasks from a PRD with parallel subagents, testing, and auto-commits. |
+| [review](https://github.com/alecmarcus/review) | PR review and comment resolution — comprehensive code review with provenance tracing, and automated resolution of PR comments, GitHub issues, and Linear tickets. |
 
 ## Usage
 

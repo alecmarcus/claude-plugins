@@ -35,6 +35,30 @@
         "wiggum"
       ],
       "category": "development"
+    },
+    {
+      "name": "review",
+      "source": {
+        "source": "github",
+        "repo": "alecmarcus/review"
+      },
+      "description": "PR review and comment resolution — comprehensive code review with provenance tracing, and automated resolution of PR comments, GitHub issues, and Linear tickets.",
+      "author": {
+        "name": "Alec Marcus"
+      },
+      "homepage": "https://github.com/alecmarcus/review",
+      "repository": "https://github.com/alecmarcus/review",
+      "license": "MIT",
+      "keywords": [
+        "review",
+        "pr",
+        "resolve",
+        "code-review",
+        "github",
+        "linear",
+        "provenance"
+      ],
+      "category": "development"
     }
   ]
 }
