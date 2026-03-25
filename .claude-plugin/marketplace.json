@@ -59,6 +59,29 @@
         "provenance"
       ],
       "category": "development"
+    },
+    {
+      "name": "odyssey",
+      "source": {
+        "source": "github",
+        "repo": "alecmarcus/odyssey"
+      },
+      "description": "Mechanically enforced task gates — quests define shell-command acceptance criteria that hooks verify. Blocks git commit, push, and stop until all gates pass.",
+      "author": {
+        "name": "Alec Marcus"
+      },
+      "homepage": "https://github.com/alecmarcus/odyssey",
+      "repository": "https://github.com/alecmarcus/odyssey",
+      "license": "MIT",
+      "keywords": [
+        "quests",
+        "gates",
+        "enforcement",
+        "verification",
+        "hooks",
+        "task-completion"
+      ],
+      "category": "development"
     }
   ]
 }
